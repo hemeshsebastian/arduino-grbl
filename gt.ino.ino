@@ -8,5 +8,5 @@ void loop() {
 
 }
 void motor(int a =90){
-  a=90:
+  int a=90:
 }
