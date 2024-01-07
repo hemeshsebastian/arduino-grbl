@@ -7,4 +7,6 @@ void loop() {
   // put your main code here, to run repeatedly:
 
 }
-BVGFRB
+void motor(int a =90){
+  a=90:
+}
